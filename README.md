@@ -1,4 +1,4 @@
-# Covid-19-Project-using-Numpy-and-Pandas
+# Major Project 1
 
 ABSTRACT 
 With the growing concerns over unauthorized access in secure facilities and organizations, there is a compelling need for an intelligent surveillance system that can detect intruders in real time. This project proposes a hybrid intrusion detection framework combining the speed and efficiency of YOLOv8 (You Only Look Once) for object and face detection with the deep learning capabilities of Convolutional Neural Networks (CNNs) for face classification. The system determines whether a detected individual is an authorized person by comparing the face with a pre-stored facial dataset. If the person is unrecognized (unauthorized), the system immediately triggers an alert mechanism via email or SMS.
